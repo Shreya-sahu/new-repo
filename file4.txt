@@ -1,0 +1,8 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    cout<<"hello bloody destructive world";
+    return 0;
+}
